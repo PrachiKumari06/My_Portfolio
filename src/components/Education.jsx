@@ -58,7 +58,7 @@ export default class Education extends Component {
                     </a>
                   </li>
 
-                  <li>
+                  {/* <li>
   Selected as Open Source Contributor{" "}
   <a
     href={contributorBadge}
@@ -69,7 +69,7 @@ export default class Education extends Component {
   </a>
   {/* <br />
   Currently onboarding and preparing to contribute through GitHub. */}
-</li>
+{/* </li> */} 
 
                   <li></li>
                 </ul>
